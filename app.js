@@ -596,6 +596,7 @@ async function getNameRequest(url, cookie){
     }))
 }
 
+//подготовленный список постов, используется для хештега #test
 const testJson = [
     {
         "code": "Cbm7yJkqJ4G",
